@@ -30,7 +30,7 @@ Django - PostgreSQL - HTML/CSS - Bootstrap - JavaScript/Jquery
 
 
 ## Fazaa (Can be downloaded from the repo)
-2D spaceshooter\ 
+2D spaceshooter\\ 
 Pygame
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/67295828/106214774-ca97c280-61cf-11eb-9f39-552c92fe99c6.png)
