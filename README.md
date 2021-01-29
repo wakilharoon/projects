@@ -33,6 +33,12 @@ Django - PostgreSQL - HTML/CSS - Bootstrap - JavaScript/Jquery
 2D spaceshooter 
 Pygame
 
+![Screenshot (1)](https://user-images.githubusercontent.com/67295828/106214774-ca97c280-61cf-11eb-9f39-552c92fe99c6.png)
+
+![Screenshot (3)](https://user-images.githubusercontent.com/67295828/106214784-cff50d00-61cf-11eb-9c2c-b2b5fe885a2e.png)
+
+![Screenshot (2)](https://user-images.githubusercontent.com/67295828/106214790-d1bed080-61cf-11eb-82e4-183ba908e6a2.png)
+
 ## IOTracker (Fullstack) 
 Project to keep track of city rental bikes with help of the LoRa network and Pycom GPS boards
 Flask - PostgreSQL - HTML/CSS - JavaScript/Jquery
