@@ -42,3 +42,15 @@ Pygame
 ## IOTracker (Fullstack) 
 Project to keep track of city rental bikes with help of the LoRa network and Pycom GPS boards
 Flask - PostgreSQL - HTML/CSS - JavaScript/Jquery
+
+![Login](https://user-images.githubusercontent.com/67295828/106214904-15193f00-61d0-11eb-9ee0-d1351b26aaef.PNG)
+
+![Home](https://user-images.githubusercontent.com/67295828/106214911-19ddf300-61d0-11eb-862c-12ad79adbac4.PNG)
+
+![New Post](https://user-images.githubusercontent.com/67295828/106214953-324e0d80-61d0-11eb-9677-eea57e48338c.PNG)
+
+![Metrics](https://user-images.githubusercontent.com/67295828/106214987-442fb080-61d0-11eb-8184-4572f472200e.PNG)
+
+![Locations](https://user-images.githubusercontent.com/67295828/106214995-47c33780-61d0-11eb-8fef-530678affaf5.PNG)
+
+![403](https://user-images.githubusercontent.com/67295828/106215006-4f82dc00-61d0-11eb-8a0c-f61eb80a54ed.PNG)
