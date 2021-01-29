@@ -1,7 +1,7 @@
 # projects
 
 ## Case Handling System (Fullstack)
-Developed as part of final project for legal aid company
+Developed as part of final project for legal aid company\
 Django - PostgreSQL - HTML/CSS - Bootstrap - JavaScript/Jquery
 
 <img width="960" alt="1" src="https://user-images.githubusercontent.com/67295828/106214505-33326f80-61cf-11eb-969a-0699fb585766.PNG">
@@ -30,7 +30,7 @@ Django - PostgreSQL - HTML/CSS - Bootstrap - JavaScript/Jquery
 
 
 ## Fazaa (Can be downloaded from the repo)
-2D spaceshooter 
+2D spaceshooter\ 
 Pygame
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/67295828/106214774-ca97c280-61cf-11eb-9f39-552c92fe99c6.png)
@@ -40,7 +40,7 @@ Pygame
 ![Screenshot (2)](https://user-images.githubusercontent.com/67295828/106214790-d1bed080-61cf-11eb-82e4-183ba908e6a2.png)
 
 ## IOTracker (Fullstack) 
-Project to keep track of city rental bikes with help of the LoRa network and Pycom GPS boards
+Project to keep track of city rental bikes with help of the LoRa network and Pycom GPS boards\
 Flask - PostgreSQL - HTML/CSS - JavaScript/Jquery
 
 ![Login](https://user-images.githubusercontent.com/67295828/106214904-15193f00-61d0-11eb-9ee0-d1351b26aaef.PNG)
